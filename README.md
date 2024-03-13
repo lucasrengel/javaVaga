@@ -1,18 +1,19 @@
-## Getting Started
+## Respostas 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+1) SOMA = 91
 
-## Folder Structure
+3)
+a) 1, 3, 5, 7, 9
 
-The workspace contains two folders by default, where:
+b) 2, 4, 8, 16, 32, 64, 128
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+c) 0, 1, 4, 9, 16, 25, 36, 49
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+d) 4, 16, 36, 64, 100
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+e) 1, 1, 2, 3, 5, 8, 13
 
-## Dependency Management
+f) 2,10, 12, 16, 17, 18, 19, ____
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+4) liga a primeira lampada e espera um tempo, desliga a primeira e liga a segunda, vai na sala das lampadas, se a lampada tiver ligada é o segundo interruptor, se a lampada tiver desligada e quente é o primeiro interruptor, se nao é o primeiro e nem o segundo, é a terceira lampada.
